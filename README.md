@@ -6,8 +6,8 @@
 ###
 
 <div align="center"
-  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F70000&center=true&width=440&lines=I'Am+Irom+Man" alt="Typing SVG" /></div>
-
+ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=1&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=I'Am+Irom+Man" alt="Typing SVG" 
+</div>
 
 ###
 
