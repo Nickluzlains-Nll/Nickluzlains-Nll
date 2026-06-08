@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="1000" src="https://wallpapers.com/images/hd/tony-stark-desert-pose-5xau6p3vsiadmzue.jpg"  />
+  <img height="600" src="https://wallpapers.com/images/hd/tony-stark-desert-pose-5xau6p3vsiadmzue.jpg"  />
 </div>
 
 ###
@@ -31,3 +31,7 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://www.instagram.com/nicolas_luz07/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+ 
